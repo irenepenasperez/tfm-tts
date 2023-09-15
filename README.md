@@ -13,8 +13,7 @@ The project folder structure is as it follows:
   - bin
     - docolab
   - datasets
-    - LEEME.txt
-    - NemoSpanishTTS
+     - NemoSpanishTTS
       - __pycache__
       - cache_dir
       - cmudict-0.7b_nv22.10
@@ -54,34 +53,12 @@ The project folder structure is as it follows:
       - val_manifest_text_normed.json
     - NemoSpanishTTSEsMapa152Finetuning
     - NemoSpanishTTSFinetuning
-    - datasetAlfonsoGutierrezFinetuning
-      - asignaturaBueno
-      - metadata_dev.csv
-      - metadata_test.csv
-      - metadata_train.csv
-      - transcript.txt
-    - datasetCastellanoReducido
+     - datasetCastellanoReducido
       - 19demarzo
       - metadata_dev.csv
       - metadata_test.csv
       - metadata_train.csv
-    - datasetEsMapa152Finetuning
-      - esmapa152
-      - metadata_dev.csv
-      - metadata_test.csv
-      - metadata_train.csv
-  - datasetsAuto
-    - 19demarzo
-      - 19demarzo_0000.wav
-      - 19demarzo_nnnn.wav
-      - 19demarzo_3272.wav
-    - metadata_dev.csv
-    - metadata_test.csv
-    - metadata_train.csv
-  - estructura_directorios.txt
-  - logs
-    - 20230628-080133-fptts-train.log
-  - notebooks
+   - notebooks
     - ExperimentoCompleto.ipynb
     - FP_ES_TTSEvaluateAfterFinetuningHiFiGAN.ipynb
     - FP_ES_TTS_Evaluate-FTHifiGAN.ipynb
@@ -93,9 +70,7 @@ The project folder structure is as it follows:
     - FP_ES_TTS_Finetuning_HiFiGAN.ipynb
     - FP_ES_TTS_Train.ipynb
     - FastPitch_SpanishTTS_Training.ipynb
-    - Notas-Pablo
-    - cania.ipynb
-    - confV1
+     - confV1
       - fastpitchFinetuningEnEsp
       - fastpitch_align_v1.05.yaml
       - fastpitch_finetune.py
@@ -123,4 +98,3 @@ The project folder structure is as it follows:
     - apt-packages.lst
     - run-irene.sh
     - run.sh
-
