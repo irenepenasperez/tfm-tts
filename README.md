@@ -122,6 +122,5 @@ In this Master's Disertation proyect, you will find the following folders:
 │       └── imggen.ipynb
 ├── nvcr.io
 │   ├── apt-packages.lst
-│   ├──run-irene.sh
-|   '--run.sh
-
+│   ├── run-irene.sh
+│   └── run.sh
