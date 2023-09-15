@@ -1,3 +1,9 @@
-Me lea, por favor
+In this Master's Disertation proyect, you will find the following folders:
 
-Segunda vuelta
+configs
+datasets
+dockers 
+experiments
+notebooks
+results
+scripts
