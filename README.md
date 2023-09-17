@@ -3,10 +3,11 @@ In this Master's Disertation proyect, you will find the following folders:
 - configs
 - datasets
 - dockers 
-- experiments
 - notebooks
-- results
+- resultados
 - scripts
+
+In order to execute the entire project, you have to run the Jupyter Notebook called ExperimentoCompleto.ipynb.
 
 The project folder structure is as it follows:
 - .

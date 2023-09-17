@@ -86,8 +86,8 @@ cd ${TTSHOME}/datasets
 # 2.2 Ahora el CSS10 Single Speaker Spanish. 
 # SUSTITUIR EL username y el token por el de la cuenta Kaggle correspondiente
 mkdir css10-es-bryan && cd css10-es-bryan
-export KAGGLE_USERNAME=valentncardeosopayo
-export KAGGLE_KEY=2b81b5db82500bccdbdd02562fa944c3
+export KAGGLE_USERNAME=username
+export KAGGLE_KEY=key
 kaggle datasets download bryanpark/spanish-single-speaker-speech-dataset
 
 # Script para procesar:
